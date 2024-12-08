@@ -229,4 +229,4 @@ npm install
 Ссылка на репозиторий с телеграмм ботом для приема заявок пользователей https://github.com/ioann2233/Support_Bot_Feature_88
 Ссылка на репозиторий с 3D симуляцией перекрестка с автоматическим переключением светофора + ручное переключение - https://github.com/ioann2233/Traffic-light-simulator-Feature_88
 
-Генерация инструкции оператору по дальнейшим действиям: https://traffic-incident-responder-notebookkaggle2.replit.app/
+Генерация инструкции оператору по дальнейшим действиям: https://traffic-incident-responder-notebookkaggle2.replit.app
